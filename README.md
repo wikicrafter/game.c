@@ -1,5 +1,5 @@
-Color game using Tkinter in Python
-Prerequisite : Python GUI Tkinter
+Here i'm using TKinter GUI 
+Prerequisites : Python GUI Tkinter
 
 TKinter is widely used for developing GUI applications. Along with applications, we can also use Tkinter GUI to develop games.
 
